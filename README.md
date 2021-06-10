@@ -11,5 +11,12 @@ repository contains following jupyter notebooksi and should be used in order bel
 2. ShapInterpretation.ipynb
 - shap value calculation for each feature 
 
-3. Top20 genes 
+3. MergeShapChunks.ipynb 
+- merge shap files to create one file per model
+
+4. ShapTopGenes.ipynb 
+- Get top 20 genes for each cancer types 
+
+5. SelectGeneSignaturesFC.ipynb
+- Filtering of gene to produce final list of gene signatures  
 
