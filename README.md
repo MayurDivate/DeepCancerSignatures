@@ -2,7 +2,9 @@
 
 This repository contains code used to build and interpret a deep learning model.
 It is a DNN classifier trained using gene expression data (TCGA).
-Then is interpreted to identify cancer specific gene expression signatures.  
+Then is interpreted to identify cancer specific gene expression signatures.
+
+![DNN Network](./images./network.png)  
 
 repository contains following jupyter notebooksi and should be used in order below, 
 1. Model.ipynb
